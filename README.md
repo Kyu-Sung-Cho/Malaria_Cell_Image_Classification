@@ -16,7 +16,7 @@ Malaria remains a significant global health issue, particularly in low-resource 
 ## **Dataset and Features**
 
 ### **Dataset Overview**
-- **Source**: NIH Malaria Dataset ([link](https://ceb.nlm.nih.gov/repositories/malaria-datasets/))  
+- **Source**: NIH Malaria Dataset
 - **Total Images**: ~27,558 cell images  
 - **Classes**:  
   - Parasitized: Images of malaria-infected cells.  
