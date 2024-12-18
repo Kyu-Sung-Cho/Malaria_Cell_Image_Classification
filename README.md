@@ -126,15 +126,5 @@ Malaria remains a significant global health issue, particularly in low-resource 
 
 ---
 
-## **Repository Contents**
-
-- **Scripts**:
-  - `malaria_classification.py`: Full pipeline for preprocessing, feature extraction, model training, and evaluation.  
-- **Models**:
-  - `best_malaria_model.keras`: Best model saved during training.  
-  - `final_malaria_model.keras`: Final trained model.  
-
----
-
 ## **Conclusion**
 This project highlights the transformative potential of AI in healthcare by automating malaria diagnosis through image classification. The success of this model emphasizes the importance of transfer learning and feature extraction in building robust, scalable solutions for real-world problems.
